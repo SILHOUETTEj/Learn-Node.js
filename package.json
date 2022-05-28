@@ -4,7 +4,7 @@
   "description": "",
   "main": "test.js",
   "scripts": {
-    "start": "node process.js"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
